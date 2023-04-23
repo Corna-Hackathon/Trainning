@@ -1,1 +1,1 @@
-# Corna-Motoko-Training
+#Motoko-Training
